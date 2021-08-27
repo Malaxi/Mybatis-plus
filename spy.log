@@ -1,0 +1,1 @@
+2021-06-21 23:53:10|14|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/mybatis?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8|SELECT id,name,age,email,version,deleted,create_time,update_time FROM user WHERE id=?  AND deleted=0|SELECT id,name,age,email,version,deleted,create_time,update_time FROM user WHERE id=1  AND deleted=0
